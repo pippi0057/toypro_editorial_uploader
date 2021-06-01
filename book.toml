@@ -4,3 +4,6 @@ authors = []
 language = "ja"
 multilingual = false
 src = "src"
+
+[output.html]
+no-section-label = true

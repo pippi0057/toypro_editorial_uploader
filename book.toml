@@ -1,6 +1,6 @@
 [book]
 title = "トイプロ解説記事保管庫"
-authors = []
+authors = [pippi-sniper]
 language = "ja"
 multilingual = false
 src = "src"

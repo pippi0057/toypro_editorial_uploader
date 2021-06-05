@@ -1,6 +1,7 @@
 # Summary
 
 - [HOME](./home/home.md)
+  - [お知らせ](./home/notice.md)
   - [目次(ID順)](./home/id.md)
   - [目次(難易度順)](./home/diff.md)
 - [解説一覧](./editorial/template.md)
